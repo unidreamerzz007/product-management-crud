@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "MacBook Pro 14-inch",
+      "brand": "Apple",
+      "category": "Laptop",
+      "price": 1999,
+      "rating": 4.8,
+      "stock": "18"
+    },
+    {
+      "id": "2",
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "category": "Laptop",
+      "price": 1399,
+      "rating": 4.5,
+      "stock": 20
+    },
+    {
+      "id": "3",
+      "name": "iPhone 14 Pro",
+      "brand": "Apple",
+      "category": "Mobile",
+      "price": 999,
+      "rating": 4.7,
+      "stock": 30
+    },
+    {
+      "id": "4",
+      "name": "Samsung Galaxy S23 Ultra",
+      "brand": "Samsung",
+      "category": "Mobile",
+      "price": 1199,
+      "rating": 4.6,
+      "stock": 25
+    },
+    {
+      "id": "5",
+      "name": "HP Spectre x360",
+      "brand": "HP",
+      "category": "Laptop",
+      "price": 1499,
+      "rating": 4.3,
+      "stock": 10
+    },
+    {
+      "id": "6",
+      "name": "OnePlus 11 5G",
+      "brand": "OnePlus",
+      "category": "Mobile",
+      "price": 729,
+      "rating": 4.5,
+      "stock": 40
+    },
+    {
+      "id": "7",
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "category": "Laptop",
+      "price": 1699,
+      "rating": 4.4,
+      "stock": 12
+    },
+    {
+      "id": "8",
+      "name": "Google Pixel 7 Pro",
+      "brand": "Google",
+      "category": "Mobile",
+      "price": 899,
+      "rating": 4.6,
+      "stock": 35
+    },
+    {
+      "id": "9",
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "category": "Laptop",
+      "price": 1599,
+      "rating": 4.7,
+      "stock": "18"
+    }
+  ]
+}
