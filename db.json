@@ -16,7 +16,7 @@
       "category": "Laptop",
       "price": 1399,
       "rating": 4.5,
-      "stock": 20
+      "stock": "19"
     },
     {
       "id": "3",
@@ -43,7 +43,7 @@
       "category": "Laptop",
       "price": 1499,
       "rating": 4.3,
-      "stock": 10
+      "stock": "9"
     },
     {
       "id": "6",

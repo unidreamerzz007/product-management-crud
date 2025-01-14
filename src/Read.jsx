@@ -16,7 +16,7 @@ function Read() {
   return (
     <div className="d-flex w-100 vh-100 justify-content-center align-items-center bg-dark text-white">
       <div className="w-50 border bg-dark border-light shadow px-5 pt-3 pb-5 rounded">
-        <h3 className="mb-4">Detail of Product</h3>
+        <h3 className="mb-4 text-warning">Details of the Product</h3>
         <div className="mb-2">
           <strong>ID: </strong>{data.id}
         </div>

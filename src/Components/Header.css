@@ -1,0 +1,29 @@
+/* Default (Light Mode) styles for Header */
+.navbar {
+  background-color: #007bff; /* Light blue color for light mode */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff; /* White text */
+}
+
+/* Dark Mode styles for Header */
+body.dark-mode .navbar {
+  background-color: #121212; /* Dark background for dark mode */
+}
+
+body.dark-mode .navbar-dark .navbar-nav .nav-link {
+  color: #bbbbbb; /* Light gray text for dark mode */
+}
+
+body.dark-mode .navbar-dark .navbar-nav .nav-link.active {
+  color: #ffffff; /* White color for active link */
+}
+
+body.dark-mode .btn-dark {
+  background-color: #444444; /* Dark button for dark mode */
+}
+
+body.dark-mode .btn-light {
+  background-color: #888888; /* Light button for dark mode */
+}
